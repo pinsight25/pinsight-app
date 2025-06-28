@@ -1250,6 +1250,4 @@ const PinSightApp = () => {
   );
 };
 
-export default function HomePage() {
-  return <PinSightApp />;
-}
+export default PinSightApp;
